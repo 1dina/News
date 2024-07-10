@@ -21,7 +21,7 @@ News App is an Android application designed to keep you updated with the latest 
 - Clone the repository to your local development environment:
 - bash
 - Copy code
-- git clone https://github.com/your-username/news-app.git
+- git clone https://github.com/1dina/News.git
 - Open the project in Android Studio.
 - Build and run the app on an emulator or a physical device.
 - Ensure you have the necessary permissions and API keys for accessing news data.
