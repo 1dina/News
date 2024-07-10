@@ -29,7 +29,7 @@ News App is an Android application designed to keep you updated with the latest 
 ## Video Demo
 To see a demonstration of the app, watch the video below:
 
-(video_demo.mp4)
+[video5798701342797077336.webm](https://github.com/1dina/News/assets/40719195/950a04f6-b762-44db-8145-a39f1a66be7a)
 
 ## Stay Connected
 Thank you for exploring the News App! We hope it helps you stay informed about the latest news. If you have any questions or feedback, feel free to contact us. Keep checking back for updates and new features. Enjoy the app, and stay informed!
